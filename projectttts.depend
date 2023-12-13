@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689013918 source:c:\users\mumen\onedrive\desktop\ppppp\projectttts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
